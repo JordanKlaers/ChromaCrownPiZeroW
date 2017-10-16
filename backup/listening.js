@@ -43,7 +43,6 @@
 
   function setLedColor(m) {
     console.log(m);
-    return
     var result = [];
     m = m.split(" ");
     for (var i = 0; i < m.length-1; i=i+3) {
